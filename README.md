@@ -31,10 +31,14 @@ A public-interest data project from my work with the ACLU of Georgia, where I he
 
 ### Immigration Economics Research
 
-Published research on the economic and fiscal impacts of immigration and illegal immigration in the United States.
+Published policy research examining the economic and fiscal impacts of immigration and illegal immigration in the United States.
 
-**Focus:** economics, public policy, research synthesis, evidence-based communication  
-**Coming soon:** publication link and summary
+**Paper:** *Unfounded Fears? Analyzing the Economic and Fiscal Impacts of Immigrants and Illegal Immigration in the United States*  
+**Published in:** Curieux Academic Journal, Spring 2025  
+**Read the paper:** [Curieux Academic Journal PDF](https://www.curieuxacademicjournal.com/_files/ugd/99711c_d2bee29194e84ec083b99fbe017419b4.pdf#page=139)
+
+**Focus:** economics, immigration policy, fiscal impact, labor markets, research synthesis, evidence-based public communication  
+**What it shows:** Ability to synthesize academic and government research, evaluate public narratives, and communicate complex policy issues clearly.
 
 ## What I’m exploring
 
