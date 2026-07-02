@@ -1,6 +1,6 @@
 # Hi, I’m Krishna Anand
 
-I’m a civic-tech and public-impact AI builder turning messy policy and government data into usable tools.
+I’m a civic-tech and public-impact AI builder focused on turning messy policy and government data into structured, reviewable tools.
 
 I work at the intersection of AI, civic technology, public policy, and democratic participation. My projects focus on making complex public systems easier for citizens, nonprofits, advocates, and decision-makers to understand and use.
 
@@ -8,10 +8,10 @@ I work at the intersection of AI, civic technology, public policy, and democrati
 
 ### [Civic Legislation Data Pipeline](https://github.com/krishnaanand-joy/civic-legislation-data-pipeline)
 
-A sanitized civic-tech demo for turning public legislative records into structured, usable bill data.
+A sanitized civic-tech demo for turning public legislative records into structured, reviewable bill data, including a Claude-powered plain-English summarization and evaluation module.
 
-**Focus:** Python, legislative data, civic technology, data cleaning, issue tagging, source tracking, responsible AI  
-**What it shows:** Ability to convert messy public policy records into structured civic data while preserving source traceability, reviewability, and public trust.
+**Focus:** Python, Claude API, prompt design, legislative data, civic technology, data cleaning, issue tagging, source tracking, responsible AI  
+**What it shows:** Ability to convert messy public policy records into structured civic data while using AI carefully: preserving source traceability, generating reviewable summaries, flagging uncertain outputs, and evaluating model responses.
 
 ### [Georgia Election Board Governance Audit](https://github.com/krishnaanand-joy/georgia-election-board-governance-audit)
 
@@ -52,10 +52,11 @@ Across these projects, I’m interested in one recurring problem: important publ
 My work focuses on:
 
 - Turning messy public records into structured data
+- Using AI to make civic information clearer, while keeping outputs reviewable
 - Designing privacy-aware workflows for sensitive civic and nonprofit contexts
 - Making policy and government systems easier to understand
 - Building tools that support public-interest teams, advocates, and decision-makers
-- Using AI carefully where accuracy, transparency, and human review matter
+- Evaluating AI outputs instead of assuming they are correct
 
 ## What I’m exploring
 
