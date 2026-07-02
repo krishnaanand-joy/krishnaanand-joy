@@ -6,30 +6,21 @@ I work at the intersection of AI, civic technology, public policy, and democrati
 
 ## Featured work
 
-## Featured work
-
 ### [Housing Navigation Map Demo](https://github.com/krishnaanand-joy/housing-navigation-map-demo)
 
 A privacy-preserving Python/data demo that turns nonprofit housing spreadsheets into a private database, map-ready outputs, and a case-tracking workflow.
 
 **Focus:** Python, data cleaning, SQLite, mapping, nonprofit operations, privacy-aware system design  
-**Why it matters:** Shows how sensitive service workflows can be modeled publicly using synthetic data while protecting families, landlords, and partner organizations.
+**What it shows:** Ability to model a sensitive real-world service workflow using synthetic data while protecting families, landlords, partners, and addresses.
 
-### Legislative Data AI Pipeline
+### [Affordable Housing Policy Analysis](https://github.com/krishnaanand-joy/affordable-housing-policy-analysis)
 
-A sanitized showcase based on civic-engagement work at Pinion, focused on turning public legislative records into structured, usable civic information.
+A policy research and survey-analysis case study on affordable housing, land use, adaptive reuse, and local master planning.
 
-**Focus:** AI automation, legislative data, civic engagement, public-interest technology  
-**Coming soon:** sanitized code, architecture diagram, sample data, and case study
+**Focus:** survey analysis, Python charting, housing policy, land use, community engagement, public communication  
+**What it shows:** Ability to translate resident input, planning concepts, and local-government policy questions into clear analysis and public-facing recommendations.
 
-### Georgia Election Administration Database
-
-A public-interest data project from my work with the ACLU of Georgia, where I helped structure election-administration information across Georgia’s 159 counties.
-
-**Focus:** election access, public data, research workflows, civic infrastructure  
-**Coming soon:** case study, data model, and sanitized project notes
-
-### Immigration Economics Research
+### [Immigration Economics Research](https://github.com/krishnaanand-joy/immigration-economics-research)
 
 Published policy research examining the economic and fiscal impacts of immigration and illegal immigration in the United States.
 
@@ -40,6 +31,22 @@ Published policy research examining the economic and fiscal impacts of immigrati
 **Focus:** economics, immigration policy, fiscal impact, labor markets, research synthesis, evidence-based public communication  
 **What it shows:** Ability to synthesize academic and government research, evaluate public narratives, and communicate complex policy issues clearly.
 
+## Work in progress
+
+### Legislative Data AI Pipeline
+
+A sanitized civic-tech showcase based on legislative-data work at Pinion, focused on turning public legislative records into structured, usable civic information.
+
+**Focus:** AI automation, legislative data, civic engagement, public-interest technology  
+**Planned public version:** sanitized code, sample data, architecture diagram, and case study
+
+### Georgia Election Administration Database
+
+A public-interest data project based on my work with the ACLU of Georgia, where I helped structure election-administration information across Georgia’s 159 counties.
+
+**Focus:** election access, public data, research workflows, civic infrastructure  
+**Planned public version:** sanitized case study, data model, and project notes
+
 ## What I’m exploring
 
 - AI for civic participation
@@ -47,6 +54,7 @@ Published policy research examining the economic and fiscal impacts of immigrati
 - Public-interest technology
 - Democratic engagement
 - Usable tools for nonprofits and public-sector teams
+- Policy research that turns complex public systems into clearer decisions
 
 ## Connect
 
