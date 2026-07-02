@@ -31,6 +31,13 @@ Published policy research examining the economic and fiscal impacts of immigrati
 **Focus:** economics, immigration policy, fiscal impact, labor markets, research synthesis, evidence-based public communication  
 **What it shows:** Ability to synthesize academic and government research, evaluate public narratives, and communicate complex policy issues clearly.
 
+### [Georgia Election Board Governance Audit](https://github.com/krishnaanand-joy/georgia-election-board-governance-audit)
+
+A sanitized case study based on my ACLU of Georgia voter-access work, where I helped build a statewide research workflow covering all 159 Georgia counties.
+
+**Focus:** election administration, public-records research, legal-document tracking, outreach workflow design, data validation, civic infrastructure  
+**What it shows:** Ability to turn fragmented public-government information into structured, review-ready data while handling difficult outreach conditions and preserving privacy.
+
 ## Work in progress
 
 ### Legislative Data AI Pipeline
