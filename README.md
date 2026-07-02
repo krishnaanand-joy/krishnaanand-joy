@@ -2,9 +2,23 @@
 
 I’m a civic-tech and public-impact AI builder turning messy policy and government data into usable tools.
 
-I work at the intersection of AI, civic technology, public policy, and democratic participation. My projects focus on making complex public systems easier for citizens, nonprofits, and decision-makers to understand and use.
+I work at the intersection of AI, civic technology, public policy, and democratic participation. My projects focus on making complex public systems easier for citizens, nonprofits, advocates, and decision-makers to understand and use.
 
 ## Featured work
+
+### [Civic Legislation Data Pipeline](https://github.com/krishnaanand-joy/civic-legislation-data-pipeline)
+
+A sanitized civic-tech demo for turning public legislative records into structured, usable bill data.
+
+**Focus:** Python, legislative data, civic technology, data cleaning, issue tagging, source tracking, responsible AI  
+**What it shows:** Ability to convert messy public policy records into structured civic data while preserving source traceability, reviewability, and public trust.
+
+### [Georgia Election Board Governance Audit](https://github.com/krishnaanand-joy/georgia-election-board-governance-audit)
+
+A sanitized case study based on my ACLU of Georgia voter-access work, where I helped build a statewide research workflow covering all 159 Georgia counties.
+
+**Focus:** election administration, public-records research, legal-document tracking, outreach workflow design, data validation, civic infrastructure  
+**What it shows:** Ability to turn fragmented public-government information into structured, review-ready data while handling difficult outreach conditions and preserving privacy.
 
 ### [Housing Navigation Map Demo](https://github.com/krishnaanand-joy/housing-navigation-map-demo)
 
@@ -31,28 +45,17 @@ Published policy research examining the economic and fiscal impacts of immigrati
 **Focus:** economics, immigration policy, fiscal impact, labor markets, research synthesis, evidence-based public communication  
 **What it shows:** Ability to synthesize academic and government research, evaluate public narratives, and communicate complex policy issues clearly.
 
-### [Georgia Election Board Governance Audit](https://github.com/krishnaanand-joy/georgia-election-board-governance-audit)
+## What connects my work
 
-A sanitized case study based on my ACLU of Georgia voter-access work, where I helped build a statewide research workflow covering all 159 Georgia counties.
+Across these projects, I’m interested in one recurring problem: important public information often exists, but it is fragmented, hard to use, or difficult for ordinary people to act on.
 
-**Focus:** election administration, public-records research, legal-document tracking, outreach workflow design, data validation, civic infrastructure  
-**What it shows:** Ability to turn fragmented public-government information into structured, review-ready data while handling difficult outreach conditions and preserving privacy.
+My work focuses on:
 
-## Work in progress
-
-### Legislative Data AI Pipeline
-
-A sanitized civic-tech showcase based on legislative-data work at Pinion, focused on turning public legislative records into structured, usable civic information.
-
-**Focus:** AI automation, legislative data, civic engagement, public-interest technology  
-**Planned public version:** sanitized code, sample data, architecture diagram, and case study
-
-### Georgia Election Administration Database
-
-A public-interest data project based on my work with the ACLU of Georgia, where I helped structure election-administration information across Georgia’s 159 counties.
-
-**Focus:** election access, public data, research workflows, civic infrastructure  
-**Planned public version:** sanitized case study, data model, and project notes
+- Turning messy public records into structured data
+- Designing privacy-aware workflows for sensitive civic and nonprofit contexts
+- Making policy and government systems easier to understand
+- Building tools that support public-interest teams, advocates, and decision-makers
+- Using AI carefully where accuracy, transparency, and human review matter
 
 ## What I’m exploring
 
