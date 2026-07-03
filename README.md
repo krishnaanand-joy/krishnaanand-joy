@@ -1,5 +1,3 @@
-# Hi, I’m Krishna Anand
-
 I’m a civic-tech and public-impact AI builder focused on turning messy policy and government data into structured, reviewable tools.
 
 I work at the intersection of AI, civic technology, public policy, and democratic participation. My projects focus on making complex public systems easier for citizens, nonprofits, advocates, and decision-makers to understand and use.
