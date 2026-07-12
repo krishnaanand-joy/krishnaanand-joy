@@ -2,8 +2,6 @@ I build civic-tech and public-impact AI tools that turn messy policy and governm
 
 My work sits at the intersection of AI, civic technology, public policy, and democratic participation. I am especially interested in making complex public systems easier for citizens, nonprofits, advocates, and decision-makers to understand and use.
 
-<img src="assets/affordableboothcobbcounty.png" width="500" alt="Krishna at the Cobb County planning booth">
-
 ## Portfolio map
 
 | Project | What it demonstrates | Main skills |
